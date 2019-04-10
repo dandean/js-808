@@ -1,0 +1,13 @@
+.app {
+  color: var(--color-3);
+  background: var(--color-5);
+  margin: 2em;
+  border: 1px solid var(--color-1);
+  border-radius: 3px;
+  box-shadow: 0 0 10px var(--color-1);
+}
+
+.tracks {
+  width: 100%;
+  overflow-x: scroll;
+}

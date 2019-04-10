@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: -1px;
+}
+
+.label {
+  flex-shrink: 0;
+  width: 100px;
+  padding-right: 0.5em;
+  white-space: nowrap;
+  text-align: right;
+  font-size: 0.7em;
+}
